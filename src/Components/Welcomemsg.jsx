@@ -10,7 +10,7 @@ function WelcomeMsg() {
           Welcome to the Todo App
         </h1>
         <p className="text-gray-600 font-medium md:text-[30px] mt-10">
-          Manage your tasks efficiently
+          Hello
         </p>
       </div>
     )
